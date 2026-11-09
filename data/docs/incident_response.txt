@@ -1,0 +1,1 @@
+Severity 1 incidents mean the production system is down and must be acknowledged within 15 minutes. Severity 2 incidents have a 1 hour response target. The on-call engineer is paged through the alert system. A postmortem document must be written within 5 working days after every Severity 1 incident.

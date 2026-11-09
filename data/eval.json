@@ -1,0 +1,153 @@
+{
+ "qa": [
+  {
+   "question": "How many days do I have to ask for a refund?",
+   "doc_id": "refund_policy",
+   "answer": "7 days"
+  },
+  {
+   "question": "Can I get a refund on a gift card?",
+   "doc_id": "refund_policy",
+   "answer": "not refundable"
+  },
+  {
+   "question": "How long does a refund take to process?",
+   "doc_id": "refund_policy",
+   "answer": "5 business days"
+  },
+  {
+   "question": "How long does delivery take inside Dhaka?",
+   "doc_id": "shipping",
+   "answer": "2 days"
+  },
+  {
+   "question": "What is the cost of express delivery?",
+   "doc_id": "shipping",
+   "answer": "150 taka"
+  },
+  {
+   "question": "Do I get free delivery on big orders?",
+   "doc_id": "shipping",
+   "answer": "free standard delivery"
+  },
+  {
+   "question": "How many days of annual leave do employees get?",
+   "doc_id": "leave_policy",
+   "answer": "20 days"
+  },
+  {
+   "question": "How many days of sick leave per year?",
+   "doc_id": "leave_policy",
+   "answer": "10 days"
+  },
+  {
+   "question": "How long is maternity leave?",
+   "doc_id": "leave_policy",
+   "answer": "16 weeks"
+  },
+  {
+   "question": "How long before an API token expires?",
+   "doc_id": "api_auth",
+   "answer": "60 minutes"
+  },
+  {
+   "question": "What is the API rate limit?",
+   "doc_id": "api_auth",
+   "answer": "100 requests per minute"
+  },
+  {
+   "question": "What HTTP error appears when I send too many requests?",
+   "doc_id": "api_auth",
+   "answer": "429"
+  },
+  {
+   "question": "How long must a password be?",
+   "doc_id": "password_security",
+   "answer": "12 characters"
+  },
+  {
+   "question": "What happens after failed login attempts?",
+   "doc_id": "password_security",
+   "answer": "locked for 30 minutes"
+  },
+  {
+   "question": "Which payment methods do you accept?",
+   "doc_id": "payment_methods",
+   "answer": "bkash, nagad"
+  },
+  {
+   "question": "Is cash on delivery available for expensive orders?",
+   "doc_id": "payment_methods",
+   "answer": "below 10000 taka"
+  },
+  {
+   "question": "How long is the warranty on electronics?",
+   "doc_id": "warranty",
+   "answer": "12 month"
+  },
+  {
+   "question": "Does the warranty cover water damage?",
+   "doc_id": "warranty",
+   "answer": "water damage"
+  },
+  {
+   "question": "What are the customer support hours?",
+   "doc_id": "support_hours",
+   "answer": "9 am to 9 pm"
+  },
+  {
+   "question": "What is the support hotline number?",
+   "doc_id": "support_hours",
+   "answer": "16999"
+  },
+  {
+   "question": "How many days can I work from home?",
+   "doc_id": "remote_work",
+   "answer": "2 days per week"
+  },
+  {
+   "question": "How much is the internet allowance for remote work?",
+   "doc_id": "remote_work",
+   "answer": "1500 taka"
+  },
+  {
+   "question": "How quickly must a Severity 1 incident be acknowledged?",
+   "doc_id": "incident_response",
+   "answer": "15 minutes"
+  },
+  {
+   "question": "When must a postmortem be written?",
+   "doc_id": "incident_response",
+   "answer": "5 working days"
+  }
+ ],
+ "ood": [
+  "Who won the cricket world cup?",
+  "What is the capital of France?",
+  "How do I bake a chocolate cake?",
+  "Tell me about the moon landing",
+  "What is the price of Bitcoin today?"
+ ],
+ "hard": [
+  {
+   "question": "Can I do my job from my house?",
+   "doc_id": "remote_work",
+   "answer": "2 days per week"
+  },
+  {
+   "question": "How much vacation time do staff receive?",
+   "doc_id": "leave_policy",
+   "answer": "20 days"
+  },
+  {
+   "question": "How fast will my parcel arrive in the capital?",
+   "doc_id": "shipping",
+   "answer": "2 days"
+  },
+  {
+   "question": "What should I do if the website goes down?",
+   "doc_id": "incident_response",
+   "answer": "15 minutes"
+  }
+ ]
+}

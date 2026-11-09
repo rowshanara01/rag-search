@@ -1,0 +1,1 @@
+All API requests require a bearer token in the Authorization header. Tokens expire after 60 minutes and can be refreshed using the refresh endpoint. Each API key is limited to 100 requests per minute. Exceeding the limit returns HTTP status 429.
