@@ -76,7 +76,7 @@ If no API key is provided, the system automatically uses extractive mode.
 
 This means the application can still retrieve and return relevant information without requiring an external LLM.
 
-## RAG Pipeline: How the System Works
+#### RAG Pipeline: How the System Works
 
 Document → Chunking (Sliding Window) → Indexing (BM25 + TF-IDF) → Hybrid Retrieval (RRF) → Relevance Guard → LLM Generation → Answer + Citations
 
