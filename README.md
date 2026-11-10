@@ -1,4 +1,4 @@
-#### RAG Search (Company Knowledge Base Q&A)
+#### RAG Search (Company Knowledge Base Q&A) ####
 
 #### What Is RAG? ##
 
