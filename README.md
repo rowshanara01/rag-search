@@ -186,7 +186,7 @@ Each citation points to the source chunk used to generate the answer.
 
 This makes it easier for users to verify the information.
 
-### 7. LLM Failure Fallback
+### 7. LLM Failure Fallback ###
 
 If the external LLM fails or becomes unavailable, the application should fall back to extractive mode.
 
