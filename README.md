@@ -16,7 +16,7 @@ Many companies use RAG-based systems for:
 
 Instead of relying only on an LLM's pre-trained knowledge, RAG retrieves relevant information from company documents and uses that information to generate answers.
 
-## How to Run the Project
+## How to Run the Project ##
 
 Install the dependencies:
 
