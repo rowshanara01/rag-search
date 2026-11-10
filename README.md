@@ -139,7 +139,7 @@ Why?
 
 If a paragraph is split in the middle of an important explanation, overlapping chunks help preserve the surrounding context.
 
-### 2. BM25 Search
+### 2. BM25 Search ###
 
 Implement BM25 retrieval to find relevant documents based on keyword matching.
 
