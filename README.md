@@ -198,7 +198,7 @@ Allow new documents to be added while the application is running.
 
 The system should validate incoming documents and update the search indexes accordingly.
 
-### 9. Validation and Automated Testing
+### 9. Validation and Automated Testing ###
 
 Test important components, including:
 
