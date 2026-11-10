@@ -151,7 +151,7 @@ BM25 considers factors such as:
 
 This makes it useful for searching technical terms, product names, and exact keywords.
 
-### 3. Hybrid Search Using RRF
+### 3. Hybrid Search Using RRF ###
 
 Combine BM25 and TF-IDF search results using Reciprocal Rank Fusion (RRF).
 
