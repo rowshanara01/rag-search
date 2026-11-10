@@ -129,7 +129,7 @@ Include source references such as [1] and [2] in the generated answer.
 
 These references identify which document chunks support the answer.
 
-## What Real-World Companies Use in RAG Systems
+## What Real-World Companies Use in RAG Systems ##
 
 ### 1. Chunking with Overlap
 
