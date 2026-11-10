@@ -66,7 +66,7 @@ POST /ingest
 
 Upload new documents at runtime so the knowledge base can be updated without rebuilding the entire application manually.
 
-### Enable LLM-Based Answers
+### Enable LLM-Based Answers ###
 
 Set your Anthropic API key:
 
