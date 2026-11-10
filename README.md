@@ -80,7 +80,7 @@ This means the application can still retrieve and return relevant information wi
 
 Document → Chunking (Sliding Window) → Indexing (BM25 + TF-IDF) → Hybrid Retrieval (RRF) → Relevance Guard → LLM Generation → Answer + Citations
 
-### Step-by-Step Explanation
+### Step-by-Step Explanation ###
 
 **1. Document Processing**
 
