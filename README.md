@@ -176,7 +176,7 @@ If the knowledge base does not contain sufficient information, the system should
 
 Instead, it should clearly state that the available documents do not provide enough information.
 
-### 6. Source Citations
+### 6. Source Citations ###
 
 Generate answers with citations such as:
 
