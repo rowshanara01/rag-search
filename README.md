@@ -236,7 +236,7 @@ This is one of the main reasons modern RAG systems use dense embeddings.
 
 ## Advanced Challenges
 
-### 1. Add Dense Embedding Retrieval
+### 1. Add Dense Embedding Retrieval ###
 
 Use Sentence Transformers to generate semantic embeddings for documents and queries.
 
