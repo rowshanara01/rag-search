@@ -1,6 +1,6 @@
 #### RAG Search (Company Knowledge Base Q&A) ####
 
-#### What Is RAG? ##
+#### What Is RAG? ####
 
 RAG stands for Retrieval-Augmented Generation.
 
