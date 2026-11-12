@@ -70,7 +70,7 @@ Upload new documents at runtime so the knowledge base can be updated without reb
 
 Set your Anthropic API key:
 
-export ANTHROPIC_API_KEY=...
+export ANTHROPIC_API_KEY and  sasion
 
 If no API key is provided, the system automatically uses extractive mode.
 
