@@ -168,7 +168,7 @@ Use:
 
 This helps identify retrieval problems independently of LLM performance.
 
-### 5. Hallucination Prevention
+### 5. Hallucination Prevention ##
 
 Implement a relevance guard.
 
