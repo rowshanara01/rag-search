@@ -34,7 +34,7 @@ pytest -q
 
 Start the API:
 
-uvicorn app.main:app --reload
+uvicorn app.main:app --reloads
 
 Open the API documentation:
 
