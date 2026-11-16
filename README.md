@@ -131,7 +131,7 @@ These references identify which document chunks support the answer.
 
 ## What Real-World Companies Use in RAG Systems ##
 
-### 1. Chunking with Overlap
+#### 1. Chunking with Overlap ####
 
 Divide documents into smaller chunks while maintaining overlapping text between neighboring chunks.
 
