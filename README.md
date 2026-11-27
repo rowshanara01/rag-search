@@ -137,9 +137,7 @@ Divide documents into smaller chunks while maintaining overlapping text between 
 
 Why?
 
-If a paragraph is split in the middle of an important explanation, overlapping chunks help preserve the surrounding context.
-
-### 2. BM25 Search ###
+If a paragraph is split in the middle of an important explanation, overlapping chunks help preserve the surrounding context.#### 2. BM25 Search ###
 
 Implement BM25 retrieval to find relevant documents based on keyword matching.
 
@@ -151,7 +149,7 @@ BM25 considers factors such as:
 
 This makes it useful for searching technical terms, product names, and exact keywords.
 
-### 3. Hybrid Search Using RRF ###
+### 3. Hybrid Search
 
 Combine BM25 and TF-IDF search results using Reciprocal Rank Fusion (RRF).
 
